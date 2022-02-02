@@ -5,4 +5,4 @@ Olá! Este projeto foi desenvolvido como prática de um exercício proposto pelo
 
 # Imagem
 
-![Tela cheia do projeto](https://uploaddeimagens.com.br/imagens/HRYbkZg)
+[Tela cheia do projeto](https://uploaddeimagens.com.br/imagens/HRYbkZg)
